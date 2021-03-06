@@ -2,5 +2,5 @@ hi
 ashu
 changes in remote
 added the conflit part
-
+information about git bash
 
