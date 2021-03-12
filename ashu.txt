@@ -1,6 +1,11 @@
-hi
-ashu
-changes in remote
-added the conflit part
-information about git bash
+#!/bin/bash -x
+echo "hi"
+echo "ashu"
+echo "changes in remote"
+echo "added the conflit part"
+echo "information about git bash"
+
+echo "employeeWage"
+echo "snakeandladder"
+echo "line comparison"
 
